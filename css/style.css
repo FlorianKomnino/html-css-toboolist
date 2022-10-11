@@ -38,6 +38,15 @@ main {
     border-radius: 0rem 0rem 0.4rem 0.4rem;;
 }
 
+ul {
+    padding: 0;
+}
+
+li {
+    box-sizing: content-box;
+    margin: 1rem 0;
+}
+
 .add_task_button {
     background-color: #47adf1;
     border-radius: 0.3rem;
@@ -74,8 +83,45 @@ main {
     border-radius: 50%;
 }
 
+.task_type_editorial {
+    padding: 0.4rem;
+    border-radius: 0.7em;
+    background-color: #47adf1;
+    color: white;
+}
 
-/* 
-    margin: 0;
-    margin: 0;
-    box-sizing: border-box; */
+.task_type_q1_goals {
+    padding: 0.4rem;
+    border-radius: 0.7em;
+    background-color: #9c72e4;
+    color: white;
+}
+
+.task_type_recruiting {
+    padding: 0.4rem;
+    border-radius: 0.7em;
+    background-color: #64c0a9;
+    color: white;
+}
+
+.task_type_mobile {
+    padding: 0.4rem;
+    border-radius: 0.7em;
+    background-color: #f29e33;
+    color: white;
+}
+
+.task_type_website {
+    padding: 0.4rem;
+    border-radius: 0.7em;
+    background-color: #d863a1;
+    color: white;
+}
+
+.task_type_sales {
+    padding: 0.4rem;
+    border-radius: 0.7em;
+    background-color: b0c926;
+    color: white;
+}
+
