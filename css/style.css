@@ -67,7 +67,12 @@ main {
     border-radius: 50%;
 }
 
-
+.task_not_done {
+    box-sizing: content-box;
+    border: 2px solid red;
+    color: red;
+    border-radius: 50%;
+}
 
 
 /* 
