@@ -56,6 +56,19 @@ main {
     padding: 0.5rem;
 }
 
+.task {
+    list-style-type: none;
+}
+
+.task_done {
+    box-sizing: content-box;
+    border: 2px solid lightgreen;
+    color: lightgreen;
+    border-radius: 50%;
+}
+
+
+
 
 /* 
     margin: 0;
