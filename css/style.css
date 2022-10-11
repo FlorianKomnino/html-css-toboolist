@@ -23,18 +23,18 @@ body {
 }
 
 nav {
-    width: 30rem;
+    width: 50rem;
     background-color: white;
     margin: 3rem auto 0.2rem auto;
-    padding: 1rem 2rem 1rem 2rem;
+    padding: 1rem 2rem 1rem 3rem;
     border-radius: 0.8rem 0.8rem 0rem 0rem;;
 }
 
 main {
-    width: 30rem;
+    width: 50rem;
     background-color: white;
     margin: 0rem auto 1rem auto;
-    padding: 1rem 2rem 1rem 2rem;
+    padding: 1rem 2rem 1rem 3rem;
     border-radius: 0rem 0rem 0.4rem 0.4rem;;
 }
 
