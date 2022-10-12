@@ -53,7 +53,7 @@ main {
     background-color: white;
     margin: 0rem auto 1rem auto;
     padding: 1rem 2rem 1rem 3rem;
-    border-radius: 0rem 0rem 0.4rem 0.4rem;;
+    border-radius: 0rem 0rem 0.4rem 0.4rem;
 }
 
 ul {
@@ -107,45 +107,35 @@ li {
     border-radius: 50%;
 }
 
-.task_type_editorial {
-    padding: 0.4rem;
-    border-radius: 0.7em;
-    background-color: #47adf1;
+.tag {
+    padding: 0.4rem 0.8rem;
+    border-radius: 1em;
     color: white;
+    font-size: 0.7rem;
+    font-weight: 550;
+}
+
+.task_type_editorial {
+    background-color: #47adf1;
 }
 
 .task_type_q1_goals {
-    padding: 0.4rem;
-    border-radius: 0.7em;
     background-color: #9c72e4;
-    color: white;
 }
 
 .task_type_recruiting {
-    padding: 0.4rem;
-    border-radius: 0.7em;
     background-color: #64c0a9;
-    color: white;
 }
 
 .task_type_mobile {
-    padding: 0.4rem;
-    border-radius: 0.7em;
     background-color: #f29e33;
-    color: white;
 }
 
 .task_type_website {
-    padding: 0.4rem;
-    border-radius: 0.7em;
     background-color: #d863a1;
-    color: white;
 }
 
 .task_type_sales {
-    padding: 0.4rem;
-    border-radius: 0.7em;
     background-color: b0c926;
-    color: white;
 }
 
