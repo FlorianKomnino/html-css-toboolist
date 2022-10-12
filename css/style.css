@@ -84,18 +84,24 @@ li {
 }
 
 .list_element {
-    list-style-type: none;
+    list-style-type: none ;
 }
 
 .task_done {
-    box-sizing: content-box;
+    display: inline-block;
+    height: 1.8rem;
+    width: 1.8rem;
+    padding-left: 0.4rem;
     border: 2px solid lightgreen;
     color: lightgreen;
     border-radius: 50%;
 }
 
 .task_not_done {
-    box-sizing: content-box;
+    display: inline-block;
+    height: 1.8rem;
+    width: 1.8rem;
+    padding-left: 0.4rem;
     border: 2px solid red;
     color: red;
     border-radius: 50%;
